@@ -1,3 +1,5 @@
+# Log4netHelpers
+A collection of helpers to be used with Log4net.
 ## Banner
 The Banner class contains static strings that can be used to render giant ASCII Art text in your logs. The class has the following static string properties:
 * AppStart
