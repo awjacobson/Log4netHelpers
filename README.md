@@ -1,5 +1,7 @@
 # Log4netHelpers
 A collection of helpers to be used with Log4net.
+## Download
+Add Log4netHelpers to your .Net project using the [Nuget package](https://www.nuget.org/packages/log4nethelpers).
 ## Banner
 The Banner class contains static strings that can be used to render giant ASCII art text in your logs. When viewing your logs in tools such as Visual Studio Code, the banners will stand out in the minimap.
 
