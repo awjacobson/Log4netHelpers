@@ -47,7 +47,7 @@ public WorkOrder Create(WorkOrder workOrder)
         Logger.Debug($"Entering Create (workOrder={workOrder.ToDebugString()})");
     }
 ```
-Example outout from the above snippet:
+Example output from the above snippet:
 
 ![Example ToDebugString](https://raw.githubusercontent.com/awjacobson/Log4netHelpers/master/docs/todebugstring_example.png)
 
