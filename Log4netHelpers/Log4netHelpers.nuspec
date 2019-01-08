@@ -1,15 +1,16 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>teamhuber.log4nethelpers</id>
+    <id>log4nethelpers</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>Aaron Jacobson</authors>
     <owners>Aaron Jacobson</owners>
+    <projectUrl>https://github.com/awjacobson/Log4netHelpers.git</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Static classes for printing banners, etc.</description>
     <releaseNotes>Added ToDebugString extension method</releaseNotes>
     <copyright>Copyright 2018</copyright>
-    <tags>log4net banner</tags>
+    <tags>log4net banner todebugstring</tags>
   </metadata>
 </package>

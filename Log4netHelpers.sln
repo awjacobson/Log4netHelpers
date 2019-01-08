@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4netHelpers", "Log4netHelpers\Log4netHelpers.csproj", "{1C91805C-8384-4F42-B229-D5F0D1B37426}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4netHelpers.Tests", "Log4netHelpers.Tests\Log4netHelpers.Tests.csproj", "{22B5B1DB-4E1F-4872-A850-114D675E0C99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{1C91805C-8384-4F42-B229-D5F0D1B37426}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C91805C-8384-4F42-B229-D5F0D1B37426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C91805C-8384-4F42-B229-D5F0D1B37426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B5B1DB-4E1F-4872-A850-114D675E0C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B5B1DB-4E1F-4872-A850-114D675E0C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B5B1DB-4E1F-4872-A850-114D675E0C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B5B1DB-4E1F-4872-A850-114D675E0C99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1214A162-C215-44F0-9552-76B52D8773C1}
 	EndGlobalSection
 EndGlobal
