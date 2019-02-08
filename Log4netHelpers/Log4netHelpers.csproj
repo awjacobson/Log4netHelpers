@@ -7,6 +7,8 @@
     <PackageProjectUrl>https://github.com/awjacobson/Log4netHelpers.git</PackageProjectUrl>
     <Description>Static classes for printing banners, etc.</Description>
     <Version>1.1.0</Version>
+    <PackageLicenseUrl>https://github.com/awjacobson/Log4netHelpers/blob/master/LICENSE.md</PackageLicenseUrl>
+    <Copyright>Aaron Jacobson 2018</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
